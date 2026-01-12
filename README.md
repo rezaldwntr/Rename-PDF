@@ -4,8 +4,6 @@
 
 Project ini menggabungkan berbagai alat manipulasi PDF menjadi satu aplikasi ringan yang mudah digunakan. Dibuat khusus untuk mempercepat pekerjaan administrasi, HRD, dan pengelolaan dokumen kantor tanpa perlu mengerti koding.
 
-![Screenshot Aplikasi](https://via.placeholder.com/800x400?text=Screenshot+Dashboard+Menu+Anda)
-*(Jangan lupa ganti link gambar di atas dengan screenshot menu utama aplikasi Anda)*
 
 ## ✨ Fitur Utama (3-in-One)
 
